@@ -1,0 +1,456 @@
+1770215809741	geckodriver	INFO	Listening on 127.0.0.1:63421
+1770215812820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofilejpHFmd"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770215813200	Marionette	INFO	Marionette enabled
+1770215813295	Marionette	INFO	Listening on port 63433
+WebDriver BiDi listening on ws://127.0.0.1:63422
+Read port: 63433
+1770215813417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1770215834321	geckodriver	INFO	Listening on 127.0.0.1:63468
+1770215837383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofilecyJ0Kh"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770215837660	Marionette	INFO	Marionette enabled
+1770215837740	Marionette	INFO	Listening on port 63481
+WebDriver BiDi listening on ws://127.0.0.1:63469
+Read port: 63481
+1770215837856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.error: (new Error("Polling for changes failed: Unexpected content-type \"text/html; charset=utf-8\".", "resource://services-settings/remote-settings.sys.mjs", 482))
+1770215870098	Marionette	INFO	Stopped listening on port 63481
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770215942861	geckodriver	INFO	Listening on 127.0.0.1:63573
+1770215945953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63574" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofilelwp5QS"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770215946219	Marionette	INFO	Marionette enabled
+1770215946296	Marionette	INFO	Listening on port 63583
+WebDriver BiDi listening on ws://127.0.0.1:63574
+Read port: 63583
+1770215946437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1770216010268	geckodriver	INFO	Listening on 127.0.0.1:63837
+1770216013335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileKejxX0"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770216013590	Marionette	INFO	Marionette enabled
+1770216013669	Marionette	INFO	Listening on port 63850
+WebDriver BiDi listening on ws://127.0.0.1:63838
+Read port: 63850
+1770216013815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+Exiting due to channel error.
+Exiting due to channel error.
+1770216182096	geckodriver	INFO	Listening on 127.0.0.1:64054
+1770216185172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofile0EZNU5"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770216185435	Marionette	INFO	Marionette enabled
+1770216185519	Marionette	INFO	Listening on port 64065
+WebDriver BiDi listening on ws://127.0.0.1:64055
+Read port: 64065
+1770216185625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 1715: TypeError: can't access dead object
+1770216190307	Marionette	INFO	Stopped listening on port 64065
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770216849190	geckodriver	INFO	Listening on 127.0.0.1:64533
+1770216852259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofilenNpwoc"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770216852597	Marionette	INFO	Marionette enabled
+1770216852678	Marionette	INFO	Listening on port 64543
+WebDriver BiDi listening on ws://127.0.0.1:64534
+Read port: 64543
+1770216852840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+1770216854838	Marionette	INFO	Stopped listening on port 64543
+Dynamically enable window occlusion 1
+JavaScript error: resource:///actors/LinkHandlerParent.sys.mjs, line 34: InvalidStateError: CanvasRenderingContext2D.drawImage: Passed-in video frame is "broken"
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770216974241	geckodriver	INFO	Listening on 127.0.0.1:64674
+1770216977312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofilehg1oXX"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770216977637	Marionette	INFO	Marionette enabled
+1770216977719	Marionette	INFO	Listening on port 64685
+Read port: 64685
+WebDriver BiDi listening on ws://127.0.0.1:64675
+1770216977757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+1770216989828	Marionette	INFO	Stopped listening on port 64685
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770217060882	geckodriver	INFO	Listening on 127.0.0.1:64787
+1770217063950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofilewpK7ft"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770217064207	Marionette	INFO	Marionette enabled
+1770217064285	Marionette	INFO	Listening on port 64797
+WebDriver BiDi listening on ws://127.0.0.1:64788
+Read port: 64797
+1770217064431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 1715: TypeError: can't access dead object
+console.error: (new Error("Polling for changes failed: Unexpected content-type \"text/html; charset=utf-8\".", "resource://services-settings/remote-settings.sys.mjs", 482))
+1770217096574	Marionette	INFO	Stopped listening on port 64797
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770217172936	geckodriver	INFO	Listening on 127.0.0.1:64897
+1770217176026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileRoEhwn"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770217176296	Marionette	INFO	Marionette enabled
+1770217176378	Marionette	INFO	Listening on port 64909
+WebDriver BiDi listening on ws://127.0.0.1:64898
+Read port: 64909
+1770217176484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 1715: TypeError: can't access dead object
+console.error: (new Error("Polling for changes failed: Unexpected content-type \"text/html; charset=utf-8\".", "resource://services-settings/remote-settings.sys.mjs", 482))
+1770217208675	Marionette	INFO	Stopped listening on port 64909
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770217310500	geckodriver	INFO	Listening on 127.0.0.1:65029
+1770217313581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileBnxlOJ"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770217313853	Marionette	INFO	Marionette enabled
+1770217313949	Marionette	INFO	Listening on port 65040
+WebDriver BiDi listening on ws://127.0.0.1:65030
+Read port: 65040
+1770217314102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.error: (new Error("Polling for changes failed: Unexpected content-type \"text/html; charset=utf-8\".", "resource://services-settings/remote-settings.sys.mjs", 482))
+1770217346694	Marionette	INFO	Stopped listening on port 65040
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770217873308	geckodriver	INFO	Listening on 127.0.0.1:65467
+1770217876388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileQGHNP5"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770217876653	Marionette	INFO	Marionette enabled
+1770217876731	Marionette	INFO	Listening on port 65477
+WebDriver BiDi listening on ws://127.0.0.1:65468
+Read port: 65477
+1770217876872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 1715: TypeError: can't access dead object
+console.error: (new Error("Polling for changes failed: Unexpected content-type \"text/html; charset=utf-8\".", "resource://services-settings/remote-settings.sys.mjs", 482))
+1770217909039	Marionette	INFO	Stopped listening on port 65477
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770218590028	geckodriver	INFO	Listening on 127.0.0.1:49694
+1770218593110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileFivqMS"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770218593376	Marionette	INFO	Marionette enabled
+1770218593456	Marionette	INFO	Listening on port 49704
+WebDriver BiDi listening on ws://127.0.0.1:49695
+Read port: 49704
+1770218593595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 1715: TypeError: can't access dead object
+console.error: (new Error("Polling for changes failed: Unexpected content-type \"text/html; charset=utf-8\".", "resource://services-settings/remote-settings.sys.mjs", 482))
+1770218625752	Marionette	INFO	Stopped listening on port 49704
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770218644113	geckodriver	INFO	Listening on 127.0.0.1:49882
+1770218647182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileikumK0"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770218647441	Marionette	INFO	Marionette enabled
+1770218647519	Marionette	INFO	Listening on port 49893
+WebDriver BiDi listening on ws://127.0.0.1:49883
+Read port: 49893
+1770218647663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.error: (new Error("Polling for changes failed: Unexpected content-type \"text/html; charset=utf-8\".", "resource://services-settings/remote-settings.sys.mjs", 482))
+1770218689804	Marionette	INFO	Stopped listening on port 49893
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770218710561	geckodriver	INFO	Listening on 127.0.0.1:49969
+1770218713636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49970" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofilev637jQ"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770218713892	Marionette	INFO	Marionette enabled
+1770218713969	Marionette	INFO	Listening on port 49977
+WebDriver BiDi listening on ws://127.0.0.1:49970
+Read port: 49977
+1770218714113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.error: (new Error("Polling for changes failed: Unexpected content-type \"text/html; charset=utf-8\".", "resource://services-settings/remote-settings.sys.mjs", 482))
+1770218752212	Marionette	INFO	Stopped listening on port 49977
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770218986177	geckodriver	INFO	Listening on 127.0.0.1:50483
+1770218989264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileFXwaUZ"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770218989531	Marionette	INFO	Marionette enabled
+1770218989610	Marionette	INFO	Listening on port 50494
+WebDriver BiDi listening on ws://127.0.0.1:50484
+Read port: 50494
+1770218989728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.error: (new Error("Polling for changes failed: Unexpected content-type \"text/html; charset=utf-8\".", "resource://services-settings/remote-settings.sys.mjs", 482))
+1770219030940	Marionette	INFO	Stopped listening on port 50494
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770219053484	geckodriver	INFO	Listening on 127.0.0.1:50571
+1770219056579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileR9uNMb"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770219056840	Marionette	INFO	Marionette enabled
+1770219056918	Marionette	INFO	Listening on port 50583
+WebDriver BiDi listening on ws://127.0.0.1:50572
+Read port: 50583
+1770219057062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+1770219071937	Marionette	INFO	Stopped listening on port 50583
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770219093721	geckodriver	INFO	Listening on 127.0.0.1:50634
+1770219096814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileTUwkeF"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770219097089	Marionette	INFO	Marionette enabled
+1770219097172	Marionette	INFO	Listening on port 50644
+WebDriver BiDi listening on ws://127.0.0.1:50635
+Read port: 50644
+1770219097282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+1770219118374	Marionette	INFO	Stopped listening on port 50644
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770219278904	geckodriver	INFO	Listening on 127.0.0.1:50824
+1770219281960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileBt5l2f"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770219282225	Marionette	INFO	Marionette enabled
+1770219282302	Marionette	INFO	Listening on port 50836
+WebDriver BiDi listening on ws://127.0.0.1:50825
+Read port: 50836
+1770219282467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+1770219303437	Marionette	INFO	Stopped listening on port 50836
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1770219367981	geckodriver	INFO	Listening on 127.0.0.1:50932
+1770219371068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "--remote-debugging-port" "50933 ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YULIYA~1.AKA\\AppData\\Local\\Temp\\rust_mozprofileOFYugL"
+JavaScript error: mozilla.cfg, line 60: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770219371344	Marionette	INFO	Marionette enabled
+1770219371421	Marionette	INFO	Listening on port 50940
+WebDriver BiDi listening on ws://127.0.0.1:50933
+Read port: 50940
+1770219371527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: RSLoader: 
+  Failed to retrieve recipes from Remote Settings
+  Message: Error: Could not sync nimbus-desktop-experiments: get-exception
+  Stack:
+    RemoteSettingsSyncError@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:1328:5
+getRecipesFromCollection@resource://nimbus/lib/RemoteSettingsExperimentLoader.sys.mjs:618:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+1770219392430	Marionette	INFO	Stopped listening on port 50940
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.

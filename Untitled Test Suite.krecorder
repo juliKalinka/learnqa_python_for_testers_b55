@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>Untitled Test Suite</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">test add group</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>http://localhost/addressbook<datalist><option>http://localhost/addressbook/group.php</option><option>http://localhost/addressbook</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>name=user<datalist><option>name=user</option><option>xpath=//input[@name='user']</option><option>xpath=//form[@id='LoginForm']/input</option><option>xpath=//input</option><option>css=input[name="user"]</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>name=user<datalist><option>name=user</option><option>xpath=//input[@name='user']</option><option>xpath=//form[@id='LoginForm']/input</option><option>xpath=//input</option><option>css=input[name="user"]</option></datalist></td><td>admin</td>
+</tr>
+<tr><td>type</td><td>name=pass<datalist><option>name=pass</option><option>xpath=//input[@name='pass']</option><option>xpath=//form[@id='LoginForm']/input[2]</option><option>xpath=//input[2]</option><option>css=input[name="pass"]</option></datalist></td><td>secret</td>
+</tr>
+<tr><td>submit</td><td>id=LoginForm<datalist><option>id=LoginForm</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>name=new<datalist><option>name=new</option><option>xpath=//input[@name='new']</option><option>xpath=//div[@id='content']/form/input</option><option>xpath=//div[4]/form/input</option><option>css=input[name="new"]</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>name=group_name<datalist><option>name=group_name</option><option>xpath=//input[@name='group_name']</option><option>xpath=//div[@id='content']/form/input</option><option>xpath=//div[4]/form/input</option><option>css=input[name="group_name"]</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>name=group_name<datalist><option>name=group_name</option><option>xpath=//input[@name='group_name']</option><option>xpath=//div[@id='content']/form/input</option><option>xpath=//div[4]/form/input</option><option>css=input[name="group_name"]</option></datalist></td><td>name11111</td>
+</tr>
+<tr><td>click</td><td>name=group_header<datalist><option>name=group_header</option><option>xpath=//textarea[@name='group_header']</option><option>xpath=//div[@id='content']/form/textarea</option><option>xpath=//textarea</option><option>css=textarea[name="group_header"]</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>name=group_header<datalist><option>name=group_header</option><option>xpath=//textarea[@name='group_header']</option><option>xpath=//div[@id='content']/form/textarea</option><option>xpath=//textarea</option><option>css=textarea[name="group_header"]</option></datalist></td><td>logo11111</td>
+</tr>
+<tr><td>click</td><td>name=group_footer<datalist><option>name=group_footer</option><option>xpath=//textarea[@name='group_footer']</option><option>xpath=//div[@id='content']/form/textarea[2]</option><option>xpath=//textarea[2]</option><option>css=textarea[name="group_footer"]</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>name=group_footer<datalist><option>name=group_footer</option><option>xpath=//textarea[@name='group_footer']</option><option>xpath=//div[@id='content']/form/textarea[2]</option><option>xpath=//textarea[2]</option><option>css=textarea[name="group_footer"]</option></datalist></td><td>Comment11111</td>
+</tr>
+<tr><td>click</td><td>name=submit<datalist><option>name=submit</option><option>xpath=//input[@name='submit']</option><option>xpath=//div[@id='content']/form/input[2]</option><option>xpath=//input[2]</option><option>css=input[name="submit"]</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>link=group page<datalist><option>link=group page</option><option>xpath=//a[contains(text(),'group page')]</option><option>xpath=//div[@id='content']/div/i/a</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='php-addressbook'])[1]/preceding::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='v9.0.0.1'])[1]/preceding::a[2]</option><option>xpath=//*/text()[normalize-space(.)='group page']/parent::*</option><option>xpath=//i/a</option><option>css=i &gt; a</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>link=Logout<datalist><option>link=Logout</option><option>xpath=//a[contains(text(),'Logout')]</option><option>xpath=//a[@onclick='document.logout.submit();']</option><option>xpath=//div[@id='top']/form/a</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='(admin)'])[1]/following::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Address Book'])[1]/preceding::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='home'])[1]/preceding::a[3]</option><option>xpath=//*/text()[normalize-space(.)='Logout']/parent::*</option><option>xpath=//a[contains(@href, '#')]</option><option>xpath=//a</option><option>css=a</option></datalist></td><td></td>
+</tr>
+</tbody></table>
+</body>
+</html>
